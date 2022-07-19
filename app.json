@@ -1,6 +1,6 @@
 {
-  "name": "SSR2HeroKu",
-  "description": "Deploy SSRoT to Heroku.",
+  "name": "Rot",
+  "description": "OneKey",
   "keywords": ["node","js","Docker"],
   "env": {
     "APP_SITE": {
